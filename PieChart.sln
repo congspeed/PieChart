@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PieChart", "PieChart.csproj", "{F0DD75B0-CADE-40F4-9481-90EEC616E39A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F0DD75B0-CADE-40F4-9481-90EEC616E39A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0DD75B0-CADE-40F4-9481-90EEC616E39A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0DD75B0-CADE-40F4-9481-90EEC616E39A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0DD75B0-CADE-40F4-9481-90EEC616E39A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19FF63C9-E469-43D1-AB1E-E2EDCD2100E2}
+	EndGlobalSection
+EndGlobal
